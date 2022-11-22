@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {},
+  "fmt": {},
+  "importMap": "./importmap.json",
+  "lint": {},
+  "tasks": {},
+  "test": {}
+}
